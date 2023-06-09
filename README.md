@@ -4,4 +4,4 @@
 Реализован crud интерфейс при помощии ajax
 Использован bootstrap для быстрой верстки
 
-Реализация проекта - OpenServer + phpMyAdmin
+Реализация проекта: OpenServer + phpMyAdmin
